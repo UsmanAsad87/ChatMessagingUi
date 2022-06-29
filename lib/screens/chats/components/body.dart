@@ -13,7 +13,7 @@ class Body extends StatelessWidget {
       children: [
         Container(
           padding: EdgeInsets.fromLTRB(
-              kDefaultPadding, 0, kDefaultPadding, kDefaultPadding),
+              kDefaultPadding, kDefaultPadding/2, kDefaultPadding, kDefaultPadding/2),
           color: kPrimaryColor,
           child: Row(
             children: [

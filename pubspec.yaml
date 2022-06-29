@@ -29,7 +29,7 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   # allows us to easily use any of the 977 fonts from fonts.google.com
-  google_fonts: ^2.0.0
+  google_fonts: ^3.0.1
 
 dev_dependencies:
   flutter_test:
